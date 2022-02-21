@@ -1,0 +1,10 @@
+body{
+    background-image: url(../images/23ca3dca24bc0de65c62be8d280db023ae234445.jpeg);
+    /* background-color: red; */
+}
+.fimg img{
+    height: max-content;
+}
+.text-size{
+    font-size: 60px;
+}
